@@ -416,7 +416,7 @@ body{
 @media (max-width: 900px), screen and (orientation: portrait){
 	
 	html{
-		font-size:x-large;
+		font-size:large;
 	}
 	
 	.main_container{
