@@ -214,7 +214,7 @@ body{
 			color: #42b352;
 		}
 
-		header h1{
+		.home h1{
 			font-size:11vw;
 			font-weight: 200;
 		}
