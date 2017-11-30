@@ -87,6 +87,7 @@ body{
 
 		#menu_content.activated{
 			display: block;
+			
 		}
 
 		#menu_content li{
@@ -100,7 +101,7 @@ body{
 		}
 
 		#menu_content li.active{
-			border-right: #fff solid .782em;
+			border-left: #fff solid .782em;
 		}
 
 
