@@ -214,8 +214,9 @@ body{
 			color: #42b352;
 		}
 
-		.home h1{
+		header h1{
 			font-size:11vw;
+			font-weight: 200;
 		}
 
 		span.dot{
