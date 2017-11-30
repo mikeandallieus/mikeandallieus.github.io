@@ -392,10 +392,18 @@ body{
 	#mobile_nav div{
 		width: 155px;
 	}
-	
+
+	#mobile_nav{
+		padding: .782em;
+	}
 	
 	.mobile_hide{
 	display: none;
+	}
+
+	nav{
+		line-height: 2em;
+		font-size: x-large;
 	}
 
 	
@@ -403,9 +411,9 @@ body{
 }
 
 
-/*
 
-@media (max-width: 665px){
+
+@media (max-width: 900px), screen and (orientation: portrait){
 	
 	html{
 		font-size:15px;
@@ -417,7 +425,7 @@ body{
 	}
 	
 	
-	/* HEADER 
+	/* HEADER */
 	
 	header{		
 		padding-bottom:.391em;
@@ -428,28 +436,21 @@ body{
 	}
 	
 	
-	/* NAV 
+	/* NAV */
 	
-	#mobile_nav{
-		padding: .782em;
-	}
+
 	
-	#mobile_nav div{
-		width: 40px; 
-	}	
-	
-	/*HOME 
+	/* HOME */
 	.txt_container{
 		padding: .782em;
 		margin-bottom:1.57em;
 	}
 	
-} */
+} 
   
 
 
 @media (max-width: 900px), screen and (orientation: portrait){
-
 	
 	/*  Sections */
 	
