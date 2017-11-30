@@ -375,7 +375,7 @@ body{
 
 /***** I KNOW IT'S NOT MOBILE FIRST - I WAS TIRED AND LAZY :-( *****/
 
-@media (max-width: 900px){
+@media (max-width: 900px), screen and (orientation: portrait){
 	
 
 	.main_container{
@@ -448,7 +448,7 @@ body{
   
 
 
-@media (max-width: 900px){
+@media (max-width: 900px), screen and (orientation: portrait){
 
 	
 	/*  Sections */
@@ -522,7 +522,7 @@ body{
 		box-sizing: border-box;
 		padding:.78225em .78125em 0 .78125em;
 		color: #fff;
-		font-size:x-small;
+		font-size:large;
 	}
 	
 	
