@@ -91,20 +91,15 @@ body{
 		}
 
 		#menu_content li{
-			padding:.391em 0 .391em .782em;
+			padding:.5em 0 .5em .782em;
 			border-right: #42b352 solid .782em;
 		}
 
 		#menu_content li a{
 			color:#fff;
-			font-size: 1.8em;
-			font-weight: 800;
+			font-size: 1.1em;
+			font-weight: 600;
 		}
-
-		#menu_content li.active{
-			border-left: #fff solid .782em;
-		}
-
 
 
 /************** STRUCTURE ****************/
@@ -403,9 +398,10 @@ body{
 	display: none;
 	}
 
-	nav{
+	#menu_content li a{
 		line-height: 2em;
 		font-size: 1.2em;
+		font-weight: 800;
 	}
 
 	
