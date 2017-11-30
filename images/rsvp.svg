@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 800 800" style="white-space: pre;">
     <rect width="740" height="740" fill="none" stroke="#42b352" stroke-width="10" fill-rule="nonzero" transform="translate(30,30)"/>
-    <text fill="#42b352" font-size="144" font-family="'Galaxie Polaris'" font-weight="200" letter-spacing="0em" word-spacing="0em" stroke="none" text-anchor="middle" transform="translate(400,400) translate(0,44)" style="line-height: 16px;">RSVP</text>
+    <text fill="#42b352" font-size="144" font-family="Galaxie Polaris" font-weight="200" letter-spacing="0em" word-spacing="0em" stroke="none" text-anchor="middle" transform="translate(400,400) translate(0,44)" style="line-height: 16px;">RSVP</text>
 </svg>
