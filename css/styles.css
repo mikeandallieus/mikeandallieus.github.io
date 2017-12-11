@@ -249,6 +249,10 @@ body{
 			color: #808080;
 		}
 
+		.faqbold{
+			font-weight: 400;
+		}
+
 		h3{
 			font-size: 2vw;
 			margin: 1.175em 0;
