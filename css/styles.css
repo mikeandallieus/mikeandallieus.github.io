@@ -219,6 +219,11 @@ body{
 			font-weight: 200;
 		}
 
+		.accommodations h1{
+			font-size:9vw;
+			font-weight: 200;
+		}
+
 		span.dot{
 			padding:0 .2rem;
 		}
@@ -249,9 +254,7 @@ body{
 			color: #808080;
 		}
 
-		.faqbold{
-			font-weight: 600;
-		}
+		
 
 		h3{
 			font-size: 2vw;
