@@ -343,11 +343,11 @@ body{
 			background-color: rgba(75,75,75,0.85);
 		}
 
-		.about_us_collage li:hover .overlay, .about_us_collage li.touch_hover .overlay{
+		/*.about_us_collage li:hover .overlay, .about_us_collage li.touch_hover .overlay{
 		  opacity: 1;
 		}
 
-		/*.about_us_collage li:hover .overlay, .about_us_collage li:active .overlay, .about_us_collage li.touch_hover .overlay{
+		.about_us_collage li:hover .overlay, .about_us_collage li:active .overlay, .about_us_collage li.touch_hover .overlay{
 			  opacity: 1;
 			}*/
 
