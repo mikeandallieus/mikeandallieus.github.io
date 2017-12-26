@@ -124,7 +124,7 @@ body{
 			width:100%;
 			text-transform: uppercase;
 			color: #595959;
-			height:20vh; 
+			min-height:800px; 
 			vertical-align: middle;
 			display: table-cell;
 			padding:0 5vw;
