@@ -63,7 +63,7 @@ body{
 	/* Heart Hamburger + Parent Container */
 
 		#mobile_nav{  /* Heart Hamburger container */
-			display:inline-block;
+			display:fixed;
 			text-align:right;
 			background-color: transparent;
 			padding:20px;
@@ -429,7 +429,7 @@ body{
 @media (max-width: 800px), screen and (orientation: portrait){
 	
 	html{
-		font-size:x-large;
+		font-size:large;
 	}
 	
 	.main_container{
