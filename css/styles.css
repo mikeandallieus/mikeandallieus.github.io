@@ -62,7 +62,7 @@ body{
 	/* Heart Hamburger + Parent Container */
 
 		#mobile_nav{  /* Heart Hamburger container */
-			display: inline-block;
+			display: fixed;
 			text-align:right;
 			background-color: transparent;
 			padding:20px;
@@ -70,7 +70,7 @@ body{
 		}
 
 		#mobile_nav div{   /* Heart Hamburger */
-			display: inline-block;
+			display: fixed;
 			width: 70px; 
 			cursor: pointer;
 		}
