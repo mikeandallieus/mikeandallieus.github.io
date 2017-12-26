@@ -50,7 +50,6 @@ body{
   		position: fixed;
 		bottom:0;
 		right:0;
-		transform: translate3d(0,0,0);
 		width:auto;
 		text-align: right;
 		line-height:1.43rem;
